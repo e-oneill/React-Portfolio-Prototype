@@ -1,0 +1,12 @@
+import {React, Component} from 'react';
+
+class About extends Component {
+  render() {
+    return (
+      <div className="about_container">
+      </div>
+    );
+  };
+}
+
+export default About;
